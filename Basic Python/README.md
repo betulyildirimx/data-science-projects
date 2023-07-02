@@ -1,7 +1,9 @@
 
 # Purpose
 
-Study the music preference by city. Test hypotheses and compare user behavior for two cities.
+Test hypotheses and compare user behavior for two cities.
+
+Study the music preference by city.
 
 # Hypotheses
 
