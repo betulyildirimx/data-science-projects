@@ -41,3 +41,10 @@ The plans table (data on the plans):
 - usd_per_minute — price per minute after exceeding the package limits (e.g., if the package includes 100 minutes, the 101st minute will be charged)
 - usd_per_message — price per text after exceeding the package limits
 - usd_per_gb — price per extra gigabyte of data after exceeding the package limits (1 GB = 1024 megabytes)
+
+# Libraries used
+_pandas_
+
+_numpy_
+
+_scipy_
