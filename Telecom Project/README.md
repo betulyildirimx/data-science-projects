@@ -1,4 +1,5 @@
-Purpose: Forecasting churn of customers
+# Project description
+Build a model to forecast churn of customers based on contract information, the client's personal data, etc.
 
 # Data Description
 
@@ -17,3 +18,14 @@ The contract information is valid as of February 1, 2020.
 Target feature: the 'EndDate' column (renamed as 'churn' column)
 
 Metric: AUC-ROC.
+
+# Libraries used
+_lightgbm_
+
+_sklearn_
+
+_pandas_ 
+
+_NumPy_ 
+
+_matplotlib_
